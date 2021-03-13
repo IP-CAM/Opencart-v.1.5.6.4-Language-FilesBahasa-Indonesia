@@ -1,25 +1,25 @@
-indonesia
-=========
+Indonesia
+=========.
 
-Terjemahan Catalog Openchart Version 1.5.6.4 bahasa Indonesia 
+OpenChart Version 1.5.6.4 Indonesian Catalog Translation
 
-Untuk openchart Version 1.5.6.4
-Hanya untuk catalog saja admin tidak di terjemahkan.
-Unzip file Indonesia.zip
-Letakkan folder Indonesia pada folder catalog/language/
+For OpenChart Version 1.5.6.4
+Only for catalogs just the admin is not translated.
+Unzip File Indonesia.zip.
+Place the Indonesian folder in the Catalog / Language / Folder
 
-Seting :
-Masuk ke Administrasi : System -> Localisation -> Languages 
-Klik Insert,
- Language Name: Indonesia
- Code: id
- Locale: id_ID.UTF-8,id_ID,id-id,indonesia
- Image: id.png
- Directory: indonesia
- Filename: indonesia
- Status: Enabled
-Klik Save
+Settings:
+Enter Administration: System -> Localisation -> Languages
+Click Insert,
+  Language Name: Indonesia
+  Code: ID
+  Locale: id_id.utf-8, id_id, id-ID, Indonesia
+  Image: id.png.
+  Directory: Indonesia
+  Filename: Indonesia
+  Status: enabled.
+Click Save.
 
-Pada System -> Settings
-edit Store name pilih tab Local
-	Language: Indonesia
+On the system -> Settings
+Edit Store Name Select the Local tab
+Language: Indonesia 
